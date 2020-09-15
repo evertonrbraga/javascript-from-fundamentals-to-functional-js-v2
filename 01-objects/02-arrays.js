@@ -7,3 +7,4 @@ var who = person.name;
 console.log(typeof person === "array");
 
 console.log(who);
+console.log(person.name);
